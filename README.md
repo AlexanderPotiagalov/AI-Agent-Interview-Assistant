@@ -5,7 +5,7 @@
     </h1>
     <img
       src="https://raw.githubusercontent.com/AlexanderPotiagalov/AI-Agent-Interview-Assistant/main/readmephotos/Preview.png"
-      width="30%"
+      width="40%"
       align="left"
       style="margin-right:15px; margin-top:60px;"
       alt="TechNotes Dashboard Preview"
@@ -85,9 +85,9 @@
 ## 📸 UI Screenshots
 
 <div align="center">
-  <img src="readmephotos/login.png" width="40%" style="border-radius: 30px; margin-right: 10px;"/>
-  <img src="readmephotos/interviewcards.png" width="40%" style="border-radius: 30px; margin-right: 10px;"/>
-  <img src="readmephotos/call.png" width="40%" style="border-radius: 30px;"/>
+  <img src="readmephotos/login.png" width="35.7%" style="border-radius: 30px; margin-right: 10px;"/>
+  <img src="readmephotos/interviewcards.png" width="29%" style="border-radius: 30px; margin-right: 10px;"/>
+  <img src="readmephotos/call.png" width="32.3%" style="border-radius: 30px;"/>
 </div>
 
 <div align="center">
